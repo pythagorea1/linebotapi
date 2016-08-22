@@ -1,0 +1,13 @@
+current directory: /home/anonymous/linebotapi/vendor/bundle/ruby/2.3.0/gems/json-2.0.2/ext/json
+/usr/bin/ruby2.3 -r ./siteconf20160821-6944-88wgzk.rb extconf.rb
+creating Makefile
+
+current directory: /home/anonymous/linebotapi/vendor/bundle/ruby/2.3.0/gems/json-2.0.2/ext/json
+make "DESTDIR=" clean
+
+current directory: /home/anonymous/linebotapi/vendor/bundle/ruby/2.3.0/gems/json-2.0.2/ext/json
+make "DESTDIR="
+make: 'all' に対して行うべき事はありません.
+
+current directory: /home/anonymous/linebotapi/vendor/bundle/ruby/2.3.0/gems/json-2.0.2/ext/json
+make "DESTDIR=" install
